@@ -1,5 +1,8 @@
+# Ft_Printf
+---------------------------------------------------
+## 42 - Small 2D game developed with the miniLibX.
+---------------------------------------------------
 
+## Final grade : 100/100
 
-
-# So_Long
-Small 2D game developed with the miniLibX.
+#### Mandatory : 100/100
